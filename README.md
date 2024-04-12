@@ -51,6 +51,10 @@ jupyter notebook co2Emission_prediction(simple_Linear_Regression).ipynb
 
 You can find this project on Kaggle: [CO2 Emission Prediction using Simple Linear Regression](https://www.kaggle.com/code/saragadamsaiprasad/co2emission-prediction-simple-linear-regression/)
 
+## Dataset
+
+The dataset used for this project can be downloaded from [FuelConsumption Dataset](https://www.kaggle.com/datasets/saragadamsaiprasad/fuelconsumption/).
+
 ## Files
 
 - `co2Emission_prediction(simple_Linear_Regression).ipynb`: Jupyter Notebook for CO2 emission prediction using simple linear regression.
