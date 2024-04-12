@@ -70,7 +70,3 @@ The trained models achieved the following performance metrics:
 - Mean Squared Error (MSE): 837.49
 - R-squared Score: 0.79
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
